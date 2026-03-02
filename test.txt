@@ -1,0 +1,1 @@
+GitHub is a web-based interface that allows real-time collaboration. It encourages teams to work together to develop code, build web pages, and update content. Read on for a quick introduction to GitHub, who uses it, and why it’s popular.
